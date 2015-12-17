@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name">
+        <item>sample name 1</item>
+        <item>sample name 2</item>
+        <item>sample name 3</item>
+        <item>sample name 4</item>
+        <item>sample name 5</item>
+        <item>sample name 6</item>
+        <item>sample name 7</item>
+        <item>sample name 8</item>
+        <item>sample name 9</item>
+        <item>sample name 10</item>
+        <item>sample name 11</item>
+        <item>sample name 12</item>
+        <item>sample name 13</item>
+        <item>sample name 14</item>
+        <item>sample name 15</item>
+        <item>sample name 16</item>
+        <item>sample name 17</item>
+        <item>sample name 18</item>
+        <item>sample name 19</item>
+        <item>sample name 20</item>
+
+    </string-array>
+</resources>
